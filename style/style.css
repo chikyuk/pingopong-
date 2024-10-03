@@ -1,0 +1,54 @@
+canvas {
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    background-color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0%;
+    margin: 0 auto;
+    margin-bottom: -13px;
+    box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.62);
+    background-image: linear-gradient(#C7C7C7 2px, transparent 2px), linear-gradient(to right, #C7C7C7 2px, transparent 2px);
+    background-position: center center;
+    background-size: 50px 50px;
+    background-color: #FFFFFF;	
+    
+    
+}
+header{
+    margin-top: 0.4%;
+}
+body{
+    margin: 0 auto;
+    background: rgb(230,173,216);
+    background: radial-gradient(circle, rgba(230,173,216,1) 0%, rgba(210,83,177,1) 83%, rgba(216,104,187,1) 100%);
+    text-align: center;
+    overflow: hidden;
+    
+}
+body p{
+    background-color: #333;
+    color: #fff;
+    padding: 1px;
+
+    font-family: "Jersey 10", sans-serif;
+    font-size: 15px;
+}
+
+ 
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 8px;
+    text-align: center;
+    margin-top: 35px;
+    font-family: "Montserrat", sans-serif;
+
+}
+footer span{
+    font-size: 1.2em;
+    font-weight: 250 ;
+}
+
+
+
